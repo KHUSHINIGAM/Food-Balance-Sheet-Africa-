@@ -1,4 +1,4 @@
-# 🌍 Food Balance Sheets Analysi 📊
+# 🌍 Food Balance Sheets Analysis 📊
 
 Welcome to the Food Balance Sheets Analysis project! 🍽️
 
