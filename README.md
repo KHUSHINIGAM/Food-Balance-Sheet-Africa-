@@ -5,7 +5,7 @@ Welcome to the Food Balance Sheets Analysis project! 🍽️
 ## Overview ℹ️
 
 This project analyzes food balance sheets data from Africa to gain insights into food production, consumption, and  other useful information.
-It aims to provide a quick intro into 'pandas' which is a pyhton library built on Numpy which is used for data manipulation, with other ways of indexing other than integers. 📈
+It aims to provide a quick intro into 'pandas' which is a python library built on Numpy which is used for data manipulation, with other ways of indexing other than integers. 📈
 I have used Google Colab for this project. 💻
 
 ## Features ✨
